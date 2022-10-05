@@ -1,4 +1,4 @@
-import { cleints} from "../constants";
+import { clients} from "../constants";
 import styles from "../style"
 
 const Clients = () => (
